@@ -5,9 +5,13 @@ import java.util.Scanner;
 public class J1SpeedFinesAreNotFine {
 	public static void main(String[] args) throws Exception{
 		
+		//added coment through eclipse on school computer 
+		
 		//initialize variables and scanners
 		int speedLimit, speed, fine;
 		
+		int g = 0
+				
 		Scanner sc = new Scanner(new FileReader("TestIn.txt"));
 		PrintWriter pw = new PrintWriter(new FileWriter("TestOut.txt"));
 			

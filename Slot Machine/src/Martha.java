@@ -9,7 +9,6 @@ public class Martha {
 	
 		Player martha = new Player();
 		
-		int s = 2;
 		martha.playTillBroke();
 		
 		System.out.println(martha.numTimesPlayed);
